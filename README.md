@@ -1,1 +1,1 @@
-<h1 style=color🍏>This is my Website</h1>
+<h1 style=color:green>This is my Website</h1>
