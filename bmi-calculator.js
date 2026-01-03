@@ -1,4 +1,6 @@
 let weight = 22.9;
+let height;
+let BMI = weight(kg) / height(m) ** 2;
 let manIs;
 if (weight < 18.5) {
   manIs = "underweight";
